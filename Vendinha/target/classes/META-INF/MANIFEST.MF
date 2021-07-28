@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: jovem.dsv
+Build-Jdk: 16.0.1
+Implementation-Title: Vendinha
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.deivity
+Main-Class: br.com.deivity.Vendinha.App
+Created-By: Maven Integration for Eclipse
+
